@@ -1,0 +1,12 @@
+name: Crime_App
+title: Crime_App
+username:
+account: andrewbridglall
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2622465
+bundleId: 3448442
+url: https://andrewbridglall.shinyapps.io/Crime_App/
+when: 1595988678.34892
+asMultiple: FALSE
+asStatic: FALSE
